@@ -1,0 +1,17 @@
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.Properties.Resources.resources
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\Forms.exe.config
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\Forms.exe
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\Forms.pdb
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary2.dll
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary1.dll
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary3.dll
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary2.pdb
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary1.pdb
+F:\Project\Graph_Pz№4\GraphElement\Forms\bin\Debug\ClassLibrary3.pdb
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.csproj.CopyComplete
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.exe
+F:\Project\Graph_Pz№4\GraphElement\Forms\obj\Debug\Forms.pdb
