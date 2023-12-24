@@ -1,0 +1,11 @@
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary3.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\bin\Debug\ClassLibrary3.pdb
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\obj\Debug\Controllers.csproj.AssemblyReference.cache
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\obj\Debug\Controllers.csproj.CopyComplete
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

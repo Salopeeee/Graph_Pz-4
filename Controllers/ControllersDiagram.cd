@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controllers.GraphController">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Controllers.GraphController.GraphInfoDTO">
+        <TypeIdentifier>
+          <NewMemberFileName>GraphController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAACAACCIBAAAAAAIACIDAAAICAAAAAAAA=</HashCode>
+      <FileName>GraphController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Controllers.IMainFormView">
+    <Position X="4.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAA=</HashCode>
+      <FileName>IMainFormView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
