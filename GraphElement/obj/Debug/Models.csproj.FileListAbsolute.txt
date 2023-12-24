@@ -1,0 +1,6 @@
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\obj\Debug\Models.csproj.AssemblyReference.cache
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+F:\Project\Graph_Pz№4\GraphElement\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
